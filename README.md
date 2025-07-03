@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/student-manokamna/leetcode/tree/master/0001-two-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/student-manokamna/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/student-manokamna/leetcode/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/student-manokamna/leetcode/tree/master/0733-flood-fill) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/student-manokamna/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
